@@ -1,6 +1,6 @@
 # Serverless Go on Azure Functions with GitHub Actions
 [![CI/CD](https://github.com/sahansera/go-azure-functions/actions/workflows/deploy.yml/badge.svg)](https://github.com/sahansera/go-azure-functions/actions/workflows/deploy.yml)
-
+s
 Playground for deploying Azure Functions written in Go.
 
 ✍️ [Blog post](https://sahansera.dev/serverless-go-with-azure-functions-github-actions)
